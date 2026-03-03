@@ -1,2 +1,3 @@
 theme=dark
 notifications=on
+font=medium
