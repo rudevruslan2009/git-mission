@@ -1,5 +1,7 @@
-branch "main" is created
-branch "feature-ui" is created
-commit "1.0 - feature-ui" on branch "feature-ui" is created
-commit "1.0 - feature-ui hotfix" on branch "feature-ui" is created
-branch "feature-logic" is created
+the branch "main" was created
+a commit "main" on branch "main" was made
+the branch "feature-ui" was created
+the branch "feature-ui" was created
+the "settings.txt" was changed
+a commit "1.0 - feature-ui" on branch "feature-ui" was made
+etc.
